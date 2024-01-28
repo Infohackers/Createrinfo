@@ -100,7 +100,7 @@ Thanks to <a href="https://github.com/Techchipnet/camphish">Techchip</a> and <a 
 
 ## [~] Find Me on :
 
-- [![Github](https://img.shields.io/badge/Github-infohackers-green?style=for-the-badge&logo=github)](https://github.com/KasRoudra)
+- [![Github](https://img.shields.io/badge/Github-infohackers-green?style=for-the-badge&logo=github)](https://github.com/infohackers)
 
 
 
